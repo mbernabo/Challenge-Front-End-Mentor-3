@@ -1,0 +1,72 @@
+body {
+  background-color: hsl(0, 0%, 95%);
+}
+.sedans {
+  background-color: hsl(31, 77%, 52%);
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+.suvs {
+  background-color: hsl(184, 100%, 22%);
+}
+
+.luxury {
+  background-color: hsl(179, 100%, 13%);
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+/* .col {
+  height: 500px;
+  width: 800px;
+  margin-top: 200px;
+} */
+
+h3 {
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 400;
+  font-size: 40px;
+  text-transform: uppercase;
+  color: hsl(0, 0%, 95%);
+}
+
+p {
+  color: hsla(0, 0%, 100%, 0.75);
+  opacity: 0.8;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 150%;
+}
+
+.div-texto {
+  width: 210px;
+  height: auto;
+}
+
+.row {
+  width: 1000px;
+  height: 500px;
+  margin: 250px 200px 200px 150px;
+}
+
+.btn {
+  border-radius: 20px;
+  background-color: hsl(0, 0%, 95%);
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  margin-top: 60px;
+}
+
+.btn-sedans {
+  color: hsl(31, 77%, 52%);
+}
+
+.btn-suvs {
+  color: hsl(184, 100%, 22%);
+}
+
+.btn-luxury {
+  color: hsl(179, 100%, 13%);
+}
